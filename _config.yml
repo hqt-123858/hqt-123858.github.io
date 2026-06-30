@@ -1,0 +1,4 @@
+title: 我的个人 Blog
+description: 开源软件开发课程实践1
+theme: minima
+permalink: /posts/:title/
